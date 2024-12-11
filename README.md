@@ -8,7 +8,7 @@ This project is written in **Pascal**. It aims to demonstrate the basic capabili
 ### 🎯 Your Goal:
 Develop a program for a "Cash Register".
 
-### 🛠️ Program Functionality:
+### 📑 Program Functionality:
 
 1. **Product List Display**:
    - Show a list of products that includes the name and price per unit or per weight. 
