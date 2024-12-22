@@ -18,7 +18,7 @@ Develop a program for a "Cash Register".
    - If the same product is added multiple times, the quantity should be reflected in the string.
 
 3. **Payment Function**:
-   - Create a payment function that generates a receipt after payment.
+   - Create a payment function that generates a cheque after payment.
    - The receipt should include information about the list of products, the cost of each product, and the total price.
 
 4. **Program Stability**:
