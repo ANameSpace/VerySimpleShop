@@ -31,10 +31,17 @@ Develop a program for a "Cash Register".
 
 
 ## 💻 Examples of Work
-### Example 1: [Title of Example]
-![Screenshot of Example 1](link_to_screenshot_1.png)
-**Description:** Brief description of what this example does.
+### Example 1: [Welcome]
+![Screenshot of Example 1](demo/scrn1.png)
 
+### Example 2: [Shop]
+![Screenshot of Example 1](demo/scrn2.png)
+
+### Example 2: [Pay]
+![Screenshot of Example 1](demo/scrn3.png)
+
+### Example 4: [Goodbye]
+![Screenshot of Example 1](demo/scrn4.png)
 
 ## 📅 License
 This project is licensed under the MIT License.
