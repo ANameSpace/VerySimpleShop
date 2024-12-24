@@ -18,7 +18,7 @@ Develop a program for a "Cash Register".
    - If the same product is added multiple times, the quantity should be reflected in the string.
 
 3. **Payment Function**:
-   - Create a payment function that generates a receipt after payment.
+   - Create a payment function that generates a cheque after payment.
    - The receipt should include information about the list of products, the cost of each product, and the total price.
 
 4. **Program Stability**:
@@ -31,10 +31,17 @@ Develop a program for a "Cash Register".
 
 
 ## 💻 Examples of Work
-### Example 1: [Title of Example]
-![Screenshot of Example 1](link_to_screenshot_1.png)
-**Description:** Brief description of what this example does.
+### Example 1: [Welcome]
+![Screenshot of Example 1](demo/scrn1.png)
 
+### Example 2: [Shop]
+![Screenshot of Example 1](demo/scrn2.png)
+
+### Example 2: [Pay]
+![Screenshot of Example 1](demo/scrn3.png)
+
+### Example 4: [Goodbye]
+![Screenshot of Example 1](demo/scrn4.png)
 
 ## 📅 License
 This project is licensed under the MIT License.
