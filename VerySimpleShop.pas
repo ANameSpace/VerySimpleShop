@@ -176,6 +176,7 @@ begin
     Result := StrToInt(currentInput);
   except
     // Just in case.
+    ErrorScreen('You input an illegal symbol. How?');
     Result := 0;
   end;
 end;
