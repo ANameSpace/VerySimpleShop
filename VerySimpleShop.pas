@@ -80,7 +80,7 @@ begin
   Result := false;
   if fCount < 16 then
   begin
-    fCount := fCount + 1;
+    fCount += 1;
     Result := true;
   end;
 end;
@@ -91,7 +91,7 @@ begin
   Result := false;
   if fCount > 0 then
   begin
-    fCount := fCount - 1;
+    fCount -= 1;
     Result := true;
   end;
 end;
@@ -127,7 +127,7 @@ end;
 procedure AddToInput(inputChar:Char; var currentInput:String; var currentLength:Integer; hideInput:Boolean);
 begin
   Write(if hideInput then HIDDEN_INPUT_CHAR else inputChar);
-  currentLength := currentLength + 1;
+  currentLength += 1;
   currentInput := currentInput + inputChar;
 end;
 
